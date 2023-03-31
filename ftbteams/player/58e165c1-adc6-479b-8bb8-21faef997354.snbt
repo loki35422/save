@@ -1,0 +1,19 @@
+{
+	id: "58e165c1-adc6-479b-8bb8-21faef997354"
+	type: "player"
+	player_name: "Mikol3964"
+	ranks: {
+		58e165c1-adc6-479b-8bb8-21faef997354: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Mikol3964"
+		"ftbteams:color": "#59FFF1"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

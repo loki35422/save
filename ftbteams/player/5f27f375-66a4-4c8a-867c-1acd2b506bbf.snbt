@@ -1,0 +1,17 @@
+{
+	id: "5f27f375-66a4-4c8a-867c-1acd2b506bbf"
+	type: "player"
+	player_name: "Baliriko"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Baliriko"
+		"ftbteams:color": "#FF595A"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
